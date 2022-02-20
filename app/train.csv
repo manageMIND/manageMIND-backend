@@ -1,0 +1,13 @@
+Task,Stress
+playWithDog exercise mathAssignment getCoffee cpscAssignment,6
+mathAssignment getCoffee cpscAssignment goOutWithFriends lecture midterm,8
+goOutWithFriends lecture takeNap timHortons goSwimming wiiU,2
+doTaxes midterm lecture mathAssignment cpscAssignment jobInterview,10
+doTaxes exercise lecture playWithDog mathAssignment,5
+getCoffee takeNap goSwimming wiiU playWithDog goOutWithFriends,1
+lecture goSwimming doTaxes jobInterview mathAssignment,7
+goOutWithFriends getCoffee lecture mathAssignment cpscAssignment,5
+goOutWithFriends playWithDog getCoffee midterm lecture,6
+wiiU jobInterview midterm goOutWithFriends exercise,6
+takeNap lecture playWithDog JobInterview goOutWithFriends wiiU,6
+getCoffee lecture goSwimming mathAssignment cpscAssignment,7
